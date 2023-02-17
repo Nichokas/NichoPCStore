@@ -96,7 +96,7 @@ body {
     cursor: pointer;
   }
   
-  #download-button:hover {
+  .download-button:hover {
     background-color: #005F6B;
   }
   
