@@ -86,8 +86,8 @@ body {
     margin-bottom: 20px;
   }
   
-  #download-button {
-    background-color: #008CBA;
+  .download-button {
+    background-color: #cc5743;
     color: white;
     padding: 10px 20px;
     font-size: 18px;
