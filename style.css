@@ -34,3 +34,15 @@ main {
 
 .app h2 {
   margin-bottom: 10px
+
+  button {
+    background-color: #ff4d4d;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
